@@ -1,4 +1,4 @@
-# Experimentin Electrical Technology Electrical Engineering
+# Experimentin Electrical Technology & Electrical Engineering
 
 ## Instrument Operation:
 - Selection of oscilloscope trigger source, ensuring stable display of signals with the same period but different amplitudes (edge triggering);
