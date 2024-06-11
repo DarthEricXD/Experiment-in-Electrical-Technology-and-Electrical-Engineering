@@ -1,10 +1,10 @@
 # Experimentin Electrical Technology Electrical Engineering
 
 ## Instrument Operation:
-A. Selection of oscilloscope trigger source, ensuring stable display of signals with the same period but different amplitudes (edge triggering);
-B. Correct selection of oscilloscope input channel coupling mode (DC coupling, AC coupling, ground connection);
-C. Understanding the definitions of peak-to-peak value, maximum value, root mean square value, period, frequency, and duty cycle in automatic measurement options. Proficiency in measuring basic parameters such as signal period, peak-to-peak value, effective value, peak value (top), bottom value (base), and duty cycle directly through screen scale measurement, manual (or tracking) cursor measurement, and automatic measurement;
-D. Generating sine waves, triangular waves, and square waves with certain frequencies and amplitudes (peak-to-peak or effective values) using a function generator, and being able to set parameters such as duty cycle and DC bias, and correctly plot standardized waveforms based on these parameters.
+- A. Selection of oscilloscope trigger source, ensuring stable display of signals with the same period but different amplitudes (edge triggering);
+- B. Correct selection of oscilloscope input channel coupling mode (DC coupling, AC coupling, ground connection);
+- C. Understanding the definitions of peak-to-peak value, maximum value, root mean square value, period, frequency, and duty cycle in automatic measurement options. Proficiency in measuring basic parameters such as signal period, peak-to-peak value, effective value, peak value (top), bottom value (base), and duty cycle directly through screen scale measurement, manual (or tracking) cursor measurement, and automatic measurement;
+- D. Generating sine waves, triangular waves, and square waves with certain frequencies and amplitudes (peak-to-peak or effective values) using a function generator, and being able to set parameters such as duty cycle and DC bias, and correctly plot standardized waveforms based on these parameters.
 
 ## Characteristics of Linear and Nonlinear Resistors:
 A. Mastering the measurement methods of the voltage-current characteristics curves of linear and nonlinear resistors;
