@@ -12,7 +12,7 @@ B. Ability to draw voltage-current characteristics curves of resistors, light-em
 C. Mastering methods for discriminating between zener diodes and light-emitting diodes;
 D. Understanding the influence of multimeter internal resistance on measurement results, and using reasonable methods for current meter internal connection and external connection circuits in practical measurements.
 
-##Verification of Thevenin's Theorem and Norton's Theorem:
+## Verification of Thevenin's Theorem and Norton's Theorem:
 A. Deepening understanding of Thevenin's Theorem, mastering the measurement methods of equivalent parameters of linear two-terminal networks (methods for measuring equivalent resistance: direct method, open-circuit voltage short-circuit current method, voltage-adding constant-current method, half-point voltage method, and methods for measuring open-circuit voltage: direct method and zero-point method);
 B. Understanding the advantages and disadvantages of the above methods and their applicable ranges.
 
