@@ -24,3 +24,7 @@ Details of the experiments can be found in the `Docs` folder.
 </p>
 <p align="center">2 Forward volt ampere characteristics of light emitting diodes</p>
 
+<p align="center">
+  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/3%20RC%20differential%20circuit%20capacitance%20response%20waveform.jpg" alt="image">
+</p>
+<p align="center">3 RC differential circuit capacitance response waveform</p>
