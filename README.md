@@ -2,7 +2,7 @@
 
 This is a course I attended at Nanjing University of Posts and Telecommunications during the 2021-2022 academic year.
 
-The `Docs` folder contains the Chinese lab reports for each experiment. These experiments include but are not limited to the following:
+The `Docs` folder contains the lab reports written in Chinese for each experiment:
 
 1. Verification of Kirchhoff's Laws and Superposition Theorem
 2. Experimental Verification of Thevenin's Theorem and Norton's Theorem on The Volt Ampere Characteristics of Linear and Nonlinear Resistors
