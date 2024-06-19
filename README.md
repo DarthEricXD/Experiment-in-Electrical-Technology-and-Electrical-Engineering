@@ -1,7 +1,7 @@
 # Experiment in Electrical Technology & Electrical Engineering
 
 ## 1.Verification of Kirchhoff's Laws and Superposition Theorem
-1. Kirchhoff's law:
+1.1 Kirchhoff's law:
 - Kirchhoff's law is a fundamental law universally applicable to circuits. Whether it is a linear circuit or a nonlinear circuit, whether it is a non time-varying circuit or a time-varying circuit.
 - Kirchhoff's current law: In a lumped parameter circuit, at any time, for any node, the algebraic sum of the branch currents flowing in and out of that node is zero.
 - Kirchhoff's voltage law: In a lumped parameter circuit, at any time along any circuit direction, the algebraic sum of voltage drops in all branches of the circuit is zero.
@@ -9,11 +9,12 @@
 ![image](https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/1.1%20Circuit%20diagram%20for%20verifying%20Kirchhoff's%20law.png)
 <p align="center">1.1 Circuit diagram for verifying Kirchhoff's law</p>
 
-2. Superposition theorem:
+1.2 Superposition theorem:
 - The superposition theorem: In a linear circuit, the current or voltage of each component can be regarded as the algebraic sum of the current or voltage generated on that component by each independent source acting on the circuit alone. -- The superposition theorem only applies to voltage and current in linear circuits. Power cannot be stacked.
 
 
-## Characteristics of Linear and Nonlinear Resistors:
+## 2.Experimental Verification of Thevenin's Theorem and Norton's Theorem on The Volt Ampere Characteristics of Linear and Nonlinear Resistors
+2.1 Linear and nonlinear resistance volt ampere characteristics
 - Mastering the measurement methods of the voltage-current characteristics curves of linear and nonlinear resistors;
 - Ability to draw voltage-current characteristics curves of resistors, light-emitting diodes, and zener diodes, and understanding concepts such as forward voltage drop of diodes and reverse breakdown voltage;
 - Mastering methods for discriminating between zener diodes and light-emitting diodes;
