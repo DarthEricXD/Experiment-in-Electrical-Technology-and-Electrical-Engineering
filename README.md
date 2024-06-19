@@ -9,7 +9,7 @@ The `Docs` folder contains the Chinese lab reports for each experiment. These ex
 3. The Usage Methods of Commonly Used Electronic Instruments and The Step Response of First-Order Circuits
 4. Research on Frequency Characteristics of Transmission Networks and RLC Series Resonant Circuits
 5. Crystal Diodes and Their Basic Applications
-6. Experiment 6: Analog Circuit Design
+6. Design of Transistor Common Emitter Amplification Circuit
 
 Details of the experiments can be found in the `Docs` folder.
 
