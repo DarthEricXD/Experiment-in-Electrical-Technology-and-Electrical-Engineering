@@ -4,12 +4,12 @@ This is a course I attended at Nanjing University of Posts and Telecommunication
 
 The `Docs` folder contains the Chinese lab reports for each experiment. These experiments include but are not limited to the following:
 
-- 1. Verification of Kirchhoff's Laws and Superposition Theorem
-- 2. Experimental Verification of Thevenin's Theorem and Norton's Theorem on The Volt Ampere Characteristics of Linear and Nonlinear Resistors
-- 3. The Usage Methods of Commonly Used Electronic Instruments and The Step Response of First-Order Circuits
-- 4. Research on Frequency Characteristics of Transmission Networks and RLC Series Resonant Circuits
-- 5. Crystal Diodes and Their Basic Applications
-- 6. Experiment 6: Analog Circuit Design
+1. Verification of Kirchhoff's Laws and Superposition Theorem
+2. Experimental Verification of Thevenin's Theorem and Norton's Theorem on The Volt Ampere Characteristics of Linear and Nonlinear Resistors
+3. The Usage Methods of Commonly Used Electronic Instruments and The Step Response of First-Order Circuits
+4. Research on Frequency Characteristics of Transmission Networks and RLC Series Resonant Circuits
+5. Crystal Diodes and Their Basic Applications
+6. Experiment 6: Analog Circuit Design
 
 Details of the experiments can be found in the `Docs` folder.
 
