@@ -16,3 +16,6 @@ Details of the experiments can be found in the `Docs` folder.
 ![image](https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/1%20Circuit%20diagram%20for%20verifying%20Kirchhoff's%20law.png)
 <p align="center">1 Circuit diagram for verifying Kirchhoff's law</p>
 
+![image](https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/2%20Forward%20Volt%20Ampere%20Characteristics%20of%20Light%20Emitting%20Diodes.png)
+<p align="center">2 Forward volt ampere characteristics of light emitting diodes</p>
+
