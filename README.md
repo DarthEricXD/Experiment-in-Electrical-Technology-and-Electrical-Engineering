@@ -17,7 +17,6 @@ Details of the experiments can be found in the `Docs` folder.
 <p align="center">
   <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/1%20Circuit%20diagram%20for%20verifying%20Kirchhoff's%20law.png" alt="image">
 </p>
-![image](https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/1%20Circuit%20diagram%20for%20verifying%20Kirchhoff's%20law.png)
 <p align="center">1 Circuit diagram for verifying Kirchhoff's law</p>
 
 <p align="center">
