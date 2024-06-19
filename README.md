@@ -6,7 +6,7 @@
 -Kirchhoff's current law: In a lumped parameter circuit, at any time, for any node, the algebraic sum of the branch currents flowing in and out of that node is zero.
 -Kirchhoff's voltage law: In a lumped parameter circuit, at any time along any circuit direction, the algebraic sum of voltage drops in all branches of the circuit is zero.
 ![image](https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/1.1%20Circuit%20diagram%20for%20verifying%20Kirchhoff's%20law.png)
-
+<p align="center">1.1 Circuit diagram for verifying Kirchhoff's law</p>
 3. Superposition theorem:
 -The superposition theorem: In a linear circuit, the current or voltage of each component can be regarded as the algebraic sum of the current or voltage generated on that component by each independent source acting on the circuit alone. ---The superposition theorem only applies to voltage and current in linear circuits. Power cannot be stacked.
 
