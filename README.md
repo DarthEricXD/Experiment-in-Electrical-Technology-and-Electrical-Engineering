@@ -1,10 +1,14 @@
 # Experiment in Electrical Technology & Electrical Engineering
 
-## Instrument Operation:
-- Selection of oscilloscope trigger source, ensuring stable display of signals with the same period but different amplitudes (edge triggering);
-- Correct selection of oscilloscope input channel coupling mode (DC coupling, AC coupling, ground connection);
-- Understanding the definitions of peak-to-peak value, maximum value, root mean square value, period, frequency, and duty cycle in automatic measurement options. Proficiency in measuring basic parameters such as signal period, peak-to-peak value, effective value, peak value (top), bottom value (base), and duty cycle directly through screen scale measurement, manual (or tracking) cursor measurement, and automatic measurement;
-- Generating sine waves, triangular waves, and square waves with certain frequencies and amplitudes (peak-to-peak or effective values) using a function generator, and being able to set parameters such as duty cycle and DC bias, and correctly plot standardized waveforms based on these parameters.
+## 1.Verification of Kirchhoff's Laws and Superposition Theorem
+1. Kirchhoff's law:
+Kirchhoff's law is a fundamental law universally applicable to circuits. Whether it is a linear circuit or a nonlinear circuit, whether it is a non time-varying circuit or a time-varying circuit.
+Kirchhoff's current law: In a lumped parameter circuit, at any time, for any node, the algebraic sum of the branch currents flowing in and out of that node is zero.
+Kirchhoff's voltage law: In a lumped parameter circuit, at any time along any circuit direction, the algebraic sum of voltage drops in all branches of the circuit is zero.
+
+3. Superposition theorem:
+The superposition theorem: In a linear circuit, the current or voltage of each component can be regarded as the algebraic sum of the current or voltage generated on that component by each independent source acting on the circuit alone. The superposition theorem only applies to voltage and current in linear circuits. Power cannot be stacked.
+
 
 ## Characteristics of Linear and Nonlinear Resistors:
 - Mastering the measurement methods of the voltage-current characteristics curves of linear and nonlinear resistors;
