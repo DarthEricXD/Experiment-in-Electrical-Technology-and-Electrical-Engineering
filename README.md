@@ -39,3 +39,8 @@ Details of the experiments can be found in the `Docs` folder.
 </p>
 <p align="center">5 Simulated output waveform of diode lower amplitude circuit</p>
 
+<p align="center">
+  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/6%20Output%20and%20input%20voltage%20waveform%20diagram%20of%20transistor%20single-stage%20common%20beam%20amplifier%20circuit.jpg" alt="image">
+</p>
+<p align="center">6 Output and input voltage waveform diagram of transistor single-stage common beam amplifier circuit</p>
+
