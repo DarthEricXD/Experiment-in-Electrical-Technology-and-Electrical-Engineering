@@ -34,3 +34,8 @@ Details of the experiments can be found in the `Docs` folder.
 </p>
 <p align="center">4 Measuring the resonance curve of a circuit by point method</p>
 
+<p align="center">
+  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/5%20Simulated%20output%20waveform%20of%20diode%20lower%20amplitude%20circuit.png" alt="image">
+</p>
+<p align="center">5 Simulated output waveform of diode lower amplitude circuit</p>
+
