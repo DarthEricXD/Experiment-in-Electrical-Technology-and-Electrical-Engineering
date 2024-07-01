@@ -14,6 +14,15 @@ The `Docs` folder contains the lab reports written in Chinese for each experimen
 8. Linear Application of Integrated Operational Amplifiers
 9. Design of Waveform Conversion Circuit
 10. Design of AC Signal Amplitude Discrimination Circuit
+11. Spectral Analysis of Periodic Signals
+12. Simulation of Continuous Time Systems
+13. Combinational Logic Circuit
+14. Application of Programmable Devices and Digital System Design
+15. The Application of Data Selectors and Triggers
+16. Dynamic Display Circuit
+17. Memory Experiment
+18. Application of Programmable Devices and Digital System Design (State Machine)&Design of Small Digital Systems
+19. DA Conversion Circuit Experiment
 
 
 <p align="center">
