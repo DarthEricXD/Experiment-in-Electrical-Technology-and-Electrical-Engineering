@@ -15,4 +15,7 @@ The `Docs` folder contains the lab reports written in Chinese for each experimen
 9. Design of Waveform Conversion Circuit
 10. Design of AC Signal Amplitude Discrimination Circuit
 
-Details of the experiments can be found in the `Docs` folder.
+
+<p align="center">
+  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/lab.png" alt="image">
+</p>
