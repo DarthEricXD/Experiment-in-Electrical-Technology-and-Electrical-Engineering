@@ -17,5 +17,5 @@ The `Docs` folder contains the lab reports written in Chinese for each experimen
 
 
 <p align="center">
-  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/pics/lab.png" alt="image">
+  <img src="https://github.com/DarthEricXD/Experiment-in-Electrical-Technology-and-Electrical-Engineering/blob/main/lab.jpg" alt="image">
 </p>
