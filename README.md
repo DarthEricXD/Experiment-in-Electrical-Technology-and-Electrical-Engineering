@@ -10,5 +10,9 @@ The `Docs` folder contains the lab reports written in Chinese for each experimen
 4. Research on Frequency Characteristics of Transmission Networks and RLC Series Resonant Circuits
 5. Crystal Diodes and Their Basic Applications
 6. Design of Transistor Common Emitter Amplification Circuit
+7. Differential Amplifier
+8. Linear Application of Integrated Operational Amplifiers
+9. Design of Waveform Conversion Circuit
+10. Design of AC Signal Amplitude Discrimination Circuit
 
 Details of the experiments can be found in the `Docs` folder.
