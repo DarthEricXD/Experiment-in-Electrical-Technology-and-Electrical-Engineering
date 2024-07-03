@@ -1,7 +1,5 @@
 # Experiment in Electrical Technology & Electrical Engineering
 
-This is a course I attended at Nanjing University of Posts and Telecommunications during the 2021-2022 academic year.
-
 The `Docs` folder contains the lab reports written in Chinese for each experiment:
 
 1. Verification of Kirchhoff's Laws and Superposition Theorem
